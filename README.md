@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordan Decembre</h1>
+<h1 align="center">Hi 👋, I'm HIM</h1>
 <h3 align="center">A passionate Full Stack developer from Miami</h3>
 
 - 🔭 I’m currently working on BarkPals
