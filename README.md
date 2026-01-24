@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on BarkPals
 - 🌱 I’m currently learning  **Full Stack development with React, BootStrap, Fetch, and Flask**
 - 👯 I’m looking to collaborate on **Machine Learning/AGI**
-- 📫 How to reach me: **nevad34@gmail.com**
+- 📫 How to reach me: **dapaint.org/ovyeddeno**
 
 
 <h3 align="left">Connect with me:</h3>
