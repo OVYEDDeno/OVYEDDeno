@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HIM</h1>
 <h3 align="center">A passionate Full Stack developer from Miami</h3>
 
-- 🔭 I’m currently working on BarkPals
+- 🔭 I’m currently working on DaPaint.org
 - 🌱 I’m currently learning  **Full Stack development with React, BootStrap, Fetch, and Flask**
 - 👯 I’m looking to collaborate on **Machine Learning/AGI**
 - 📫 How to reach me: **dapaint.org/ovyeddeno**
